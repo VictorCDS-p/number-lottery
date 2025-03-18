@@ -1,14 +1,59 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Number Lottery
 
-Currently, two official plugins are available:
+A simple and fun number lottery application built with React.js. This app generates random numbers within a user-defined range. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Generate random numbers within a custom range.
+- User-friendly interface with clear instructions.
+- Fully responsive design, optimized for mobile and desktop screens.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# number-lottery
-# number-lottery
+## Technologies Used
+
+- **React.js**: JavaScript library for building user interfaces.
+
+## Installation
+
+### Prerequisites
+
+To run this project locally, you'll need to have the following installed:
+
+- **Node.js** (version 14 or higher)
+- **npm** (Node Package Manager)
+
+### Steps to run the app locally
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/VictorCDS-p/number-lottery.git
+   
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd number-lottery
+   ```
+
+3. Install the dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Run the application:
+
+   ```bash
+   npm start
+   ```
+
+## Usage
+
+1. Enter the minimum and maximum values for the lottery range.
+2. Click on the **Draw Numbers** button to generate random numbers.
+3. You can reset the draw and try again.
+
+
+
+
