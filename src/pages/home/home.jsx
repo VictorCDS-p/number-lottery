@@ -2,7 +2,7 @@ import { LotteryView } from "../../views/LotteryView.jsx";
 import Header from "../../components/header/header.jsx";
 import MainContent from "../../components/mainContent/mainContent.jsx";
 
-import "./Home.css"; 
+import "./style.css"; 
 
 export function Home() {
   return (
