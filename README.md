@@ -1,4 +1,3 @@
-Claro! Aqui está um modelo de `README.md` para o seu projeto de sorteio de números:
 
 ```markdown
 # Number Lottery
