@@ -18,11 +18,12 @@
 }
 
 .subtitle {
+    display: flex;
     color: #C58DE7;
     font-family: 'Roboto Flex';
     font-style: normal;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 150%;
     gap: 5px;
 }
@@ -33,14 +34,15 @@
 }
 
 .text {
-    width: 358px;
+    width: 420px;
     height: 36px;
     font-family: 'Roboto Flex';
     font-style: normal;
     font-weight: 500;
-    font-size: 13px;
+    font-size: 16px;
     line-height: 150%;
     color: #C7C9CC;
+    margin-bottom: 40px;
 }
 
 @media (max-width: 768px) {
