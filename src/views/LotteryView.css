@@ -296,7 +296,6 @@ input:checked+.slider:before {
   text-align: center;
 }
 
-/* Responsividade para telas menores */
 @media (max-width: 768px) {
   .lottery-container {
     margin: 0px 0px 0px 0px;
@@ -389,7 +388,6 @@ input:checked+.slider:before {
   }
 }
 
-/* Responsividade para telas muito pequenas, como dispositivos móveis */
 @media (max-width: 480px) {
   .lottery-container {
     padding: 5px;
@@ -437,5 +435,3 @@ input:checked+.slider:before {
     margin: 3px;
     padding: 6px;
   }
-
-

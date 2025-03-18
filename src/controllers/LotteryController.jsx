@@ -1,4 +1,3 @@
-// src/controllers/LotteryController.js
 
 import { LotteryModel } from "../models/LotteryModel";
 

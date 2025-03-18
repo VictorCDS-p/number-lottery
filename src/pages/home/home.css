@@ -1,7 +1,4 @@
 
-
-
-
 main {
   display: flex;
   flex-direction: column;
@@ -12,8 +9,6 @@ main {
   margin-top: 50px;
   
 }
-
-
 
 .content-row {
   display: flex;
@@ -28,7 +23,6 @@ main {
   flex-grow: 1; 
 }
 
-/* Responsivo */
 @media (max-width: 768px) {
   .content-row {
     flex-direction: column;

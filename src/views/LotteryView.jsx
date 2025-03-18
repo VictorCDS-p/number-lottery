@@ -41,7 +41,7 @@ export function LotteryView() {
     setIsTransitioning(true);
     const numbers = LotteryController.drawNumbers(quantity, min, max, isRepeatEnabled);
     setResults(numbers);
-    resetAnimation(); // Reinicia a animação da borda
+    resetAnimation(); 
   };
 
   const handleRedoDraw = () => {
@@ -49,7 +49,7 @@ export function LotteryView() {
     setIsTransitioning(true);
     const numbers = LotteryController.drawNumbers(quantity, min, max, isRepeatEnabled);
     setResults(numbers);
-    resetAnimation(); // Reinicia a animação da borda
+    resetAnimation(); 
   };
 
   const handleReset = () => {
