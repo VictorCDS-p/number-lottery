@@ -1,5 +1,4 @@
 
-```markdown
 # Number Lottery
 
 A simple and fun number lottery application built with React.js. This app generates random numbers within a user-defined range. 
@@ -29,7 +28,7 @@ To run this project locally, you'll need to have the following installed:
 
    ```bash
    git clone https://github.com/VictorCDS-p/number-lottery.git
-   ```
+   
 
 2. Navigate to the project folder:
 
